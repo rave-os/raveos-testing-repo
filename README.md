@@ -1,4 +1,2 @@
-# raveos-core-repo
-RaveOS Core Binary repository
-# raveos-testing-repo
+RaveOS Core Testing Binary repository
 # raveos-testing-repo
